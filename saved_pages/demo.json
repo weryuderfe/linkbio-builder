@@ -1,0 +1,9 @@
+{
+  "id": "123",
+  "username": "demo",
+  "title": "Halaman Link Demo",
+  "links": [
+    {"label": "Instagram", "url": "https://instagram.com/demo"},
+    {"label": "Shopee", "url": "https://shopee.co.id/demo"}
+  ]
+}
